@@ -4,7 +4,17 @@
 
 Supports single files or entire directories.
 
-*Note: This README was AI Generated
+This thing is super helpful to create variants of existing blocks and use existing color palettes, just feed the JSON to AI!
+
+# Examples:
+## Sakura (Pink) Froglight
+![Sakura Top](./minecraft/new/sakura_froglight_top.png)
+![Sakura Side](./minecraft/new/sakura_froglight_side.png)
+
+## Cocoa Cane (Cocoa Beans + Sugar Cane)
+![Cocoa Cane](./minecraft/new/cocoa_cane.png)
+
+*Note: The following README was AI Generated
 ---
 
 ## Features
