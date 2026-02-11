@@ -8,13 +8,13 @@ This thing is super helpful to create variants of existing blocks and use existi
 
 # Examples:
 ## Sakura (Pink) Froglight
-![Sakura Top](./minecraft/new/sakura_froglight_top.png)
-![Sakura Side](./minecraft/new/sakura_froglight_side.png)
+<img src="./minecraft/new/sakura_froglight_top.png" width="128" style="image-rendering: pixelated;">
+<img src="./minecraft/new/sakura_froglight_side.png" width="128" style="image-rendering: pixelated;">
 
 ## Cocoa Cane (Cocoa Beans + Sugar Cane)
-![Cocoa Cane](./minecraft/new/cocoa_cane.png)
+<img src="./minecraft/new/cocoa_cane.png" width="128" style="image-rendering: pixelated;">
 
-*Note: The following README was AI Generated
+***Note: The following README was AI Generated***
 ---
 
 ## Features
