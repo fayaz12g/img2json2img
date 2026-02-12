@@ -9,12 +9,6 @@ This thing is super helpful to create variants of existing blocks and use existi
 # Examples:
 ## Sakura (Pink) Froglight
 <img src="./minecraft/new/sakura_froglight_top.png" width="128" style="image-rendering: pixelated;">
-<img src="./minecraft/new/sakura_froglight_top.png" width="128" 
-     style="image-rendering: pixelated; 
-            image-rendering: -moz-crisp-edges; 
-            image-rendering: crisp-edges; 
-            -ms-interpolation-mode: nearest-neighbor;">
-
 <img src="./minecraft/new/sakura_froglight_side.png" width="128" style="image-rendering: pixelated;">
 
 ## Cocoa Cane (Cocoa Beans + Sugar Cane)
