@@ -20,6 +20,11 @@ This thing is super helpful to create variants of existing blocks and use existi
 ## Cocoa Paper
 <img src="./minecraft/new/cocoa_paper.png" width="128" style="image-rendering: pixelated;">
 
+## Charred Wood (Stem, Stem Top, Planks)
+<img src="./minecraft/new/charred_planks.png" width="128" style="image-rendering: pixelated;">
+<img src="./minecraft/new/charred_stem.png" width="128" style="image-rendering: pixelated;">
+<img src="./minecraft/new/charred_stem_top.png" width="128" style="image-rendering: pixelated;">
+
 ## Tyrian Nylium (Purple Variant based on Crimson Planks)
 <img src="./minecraft/new/tyrian_nylium.png" width="128" style="image-rendering: pixelated;">
 <img src="./minecraft/new/tyrian_nylium_side.png" width="128" style="image-rendering: pixelated;">
