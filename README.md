@@ -14,6 +14,13 @@ This thing is super helpful to create variants of existing blocks and use existi
 ## Cocoa Cane (Cocoa Beans + Sugar Cane)
 ![Cocoa Cane](./minecraft/new/cocoa_cane.png)
 
+## Cocoa Paper
+![Cocoa Paper](./minecraft/new/cocoa_paper.png)
+
+## Tyrian Nylium (Purple Variant based on Crimson Planks)
+![Tyrian Top](./minecraft/new/tyrian_nylium.png)
+![Tyrian Side](./minecraft/new/tyrian_nylium_side.png)
+
 *Note: The following README was AI Generated
 ---
 
