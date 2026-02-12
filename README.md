@@ -21,6 +21,10 @@ This thing is super helpful to create variants of existing blocks and use existi
 <img src="./minecraft/new/tyrian_nylium.png" width="128" style="image-rendering: pixelated;">
 <img src="./minecraft/new/tyrian_nylium_side.png" width="128" style="image-rendering: pixelated;">
 
+## Verdium (A chartreuse Ender Nylium)
+<img src="./minecraft/new/verdium.png" width="128" style="image-rendering: pixelated;">
+<img src="./minecraft/new/verdium_side.png" width="128" style="image-rendering: pixelated;">
+
 ## Gold Bars
 <img src="./minecraft/new/gold_bars.png" width="128" style="image-rendering: pixelated;">
 
